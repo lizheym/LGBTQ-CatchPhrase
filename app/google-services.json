@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "645081225255",
+    "firebase_url": "https://rainbow-71170.firebaseio.com",
+    "project_id": "rainbow-71170",
+    "storage_bucket": "rainbow-71170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645081225255:android:29741e220306675e",
+        "android_client_info": {
+          "package_name": "osu.edu.rainbow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645081225255-32gmulat8s4qbgjlm4rt9r1omeiroq19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "osu.edu.rainbow",
+            "certificate_hash": "4f7b7fe7d719be6cbe2a9e28d393ecb960480a87"
+          }
+        },
+        {
+          "client_id": "645081225255-3p26c6nud2gvn6l8h5em5u7f0lilg42d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt0T18YvpTZLkMME3KcV8z_2pse_MqVy4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645081225255-3p26c6nud2gvn6l8h5em5u7f0lilg42d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
